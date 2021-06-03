@@ -158,7 +158,7 @@ export class Dapp extends Component {
 
             <
             h5 > < /h5> <
-            h2 > Send any amount of your HODL to our Contract Address and we will send you back double! < /h2> <
+            h2 > TEST < /h2> <
             br / >
             <
             a href = "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0E3EAF83Ea93Abe756690C62c72284943b96a6Bc"
