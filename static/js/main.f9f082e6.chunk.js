@@ -3966,7 +3966,7 @@
                                                     justifyContent: "center"
                                                 },
                                                 children: Object(r.jsxs)("div", {
-                                                    className: "gwbox text-center",
+                                                    className: "icon-boxgw.gw text-center",
                                                     children: [Object(r.jsx)("div", {
                                                         className: "icon",
                                                         children: Object(r.jsx)("img", {
