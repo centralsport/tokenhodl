@@ -3387,7 +3387,7 @@
                             "data-target": "#InvestMent",
                             children: "Reward Calculator"
                         }), Object(r.jsx)("section", {
-                            class: "smallsection",
+                            
                             children: Object(r.jsx)("div", {
                                 class: "modal fade  ",
                                 id: "InvestMent",
@@ -3975,7 +3975,7 @@
                                                     }), Object(r.jsx)("h2", {
                                                         children: "100,000 HOLDERS GIVEAWAY"
                                                     }), Object(r.jsx)("h4", {}), Object(r.jsx)("h4", {
-                                                        children: " We are doing a giveaway to our first 100,000 holders.Send your tokens to our Smart Contract addres and our bot will send you double the amount instantly "
+                                                        children: " We are doing a giveaway to our first 100,000 holders.Send your tokens to our Smart Contract address and our bot will send you back double the amount instantly "
                                                     }), Object(r.jsx)("br", {}), Object(r.jsx)("a", {
                                                         href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0E3EAF83Ea93Abe756690C62c72284943b96a6Bc",
                                                         className: "btn-get-started scrollto dashboard",
