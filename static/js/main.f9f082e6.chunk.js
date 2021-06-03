@@ -3566,12 +3566,6 @@
                                                 }), Object(r.jsx)("p", {
                                                     children: "*Pool and Rewards are always changing based on buys, sells, collects by others and your percentage holdings."
                                                     
-
-
-
-                                                }), Object(r.jsxs)("h5", {
-                                                    children: [" ", a, " %"]
-                                                }), Object(r.jsx)("h6", {
                                                     
                                                 }), Object(r.jsx)("br", {}), !_ && 0 == J && Object(r.jsx)("h5", {
                                                     style: {
@@ -3998,11 +3992,7 @@
                                                             
                                                         })]
 
-                                                    }), Object(r.jsx)("br", {}), Object(r.jsx)("a", {
-                                                        href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0E3EAF83Ea93Abe756690C62c72284943b96a6Bc",
-                                                        className: "btn-get-started scrollto dashboard",
-                                                        target: "_blank",
-                                                        children: "Buy $HODL"
+
                                                     })]
                                                 })
                                             })
