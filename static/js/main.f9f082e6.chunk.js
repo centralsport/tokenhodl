@@ -3554,11 +3554,7 @@
 
                                                 
                                                     
-                                                        children: ["            ", Object(r.jsx)("h5", {
-                                                            children: " Your Reward     Share"
-                                                        }), Object(r.jsxs)("h5", {
-                                                            children: [" ", a, " %"]
-                                                        }), Object(r.jsx)("h6", {
+                                            
                                                             
                                                         
 
