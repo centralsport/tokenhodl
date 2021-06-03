@@ -1590,7 +1590,7 @@
                 F = a(9),
                 V = a(18),
                 W = a(17),
-                P = a.p + "static/media/background.2ea02b14.jpg",
+                
                 H = a(138),
                 Y = a.n(H),
                 R = a(35),
