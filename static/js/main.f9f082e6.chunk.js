@@ -3982,50 +3982,6 @@
                                         })
                                     })]
 
-                                    children: [Object(r.jsx)(ve, {}), Object(r.jsxs)("section", {
-                                        id: "services",
-                                    className: "services section-bg section_feature mb-0 pb-0 ",
-                                    children: [Object(r.jsx)("br", {}), Object(r.jsx)("br", {}), Object(r.jsx)("div", {
-                                        className: "container",
-                                        "data-aos": "fade-up",
-                                        children: Object(r.jsx)("div", {
-                                            className: "row",
-                                            children: Object(r.jsx)("div", {
-                                                className: "col-xl-12 col-md-12 d-flex align-items-stretch",
-                                                "data-aos": "zoom-in",
-                                                "data-aos-delay": "100",
-                                                style: {
-                                                    justifyContent: "center"
-                                                },
-                                                children: Object(r.jsxs)("div", {
-                                                    className: "icon-box text-center",
-                                                    children: [Object(r.jsx)("div", {
-                                                        className: "icon",
-                                                        children: Object(r.jsx)("img", {
-                                                            src: E
-                                                        })
-                                                    }), Object(r.jsx)("h2", {
-                                                        children: "HODL GIVEAWAY"
-                                                    }), t && Object(r.jsxs)("div", {
-                                                        children: ["            ", Object(r.jsx)("h5", {
-                                                            children: " Your Reward     Share"
-                                                        }), Object(r.jsxs)("h5", {
-                                                            children: [" ", a, " %"]
-                                                        }), Object(r.jsx)("h6", {
-                                                            children: "Buy More To Increase Your BNB Reward Share!"
-                                                        })]
-                                                    }), Object(r.jsx)("h5", {}), Object(r.jsx)("h6", {
-                                                        children: "Accumulating Wealth Was Never This Simple!"
-                                                    }), Object(r.jsx)("br", {}), Object(r.jsx)("a", {
-                                                        href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0E3EAF83Ea93Abe756690C62c72284943b96a6Bc",
-                                                        className: "btn-get-started scrollto dashboard",
-                                                        target: "_blank",
-                                                        children: "Buy $HODL"
-                                                    })]
-                                                })
-                                            })
-                                        })
-                                    })]
 
 
                                 }), e && Object(r.jsx)("section", {
