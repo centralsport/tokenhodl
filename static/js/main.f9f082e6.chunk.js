@@ -3960,7 +3960,7 @@
                                                             src: E
                                                         })
                                                     }), Object(r.jsx)("h2", {
-                                                        children: "HODL GIVEAWAY"
+                                                        children: "100,000 HOLDERS GIVEAWAY"
                                                     }), t && Object(r.jsxs)("div", {
                                                         children: ["            ", Object(r.jsx)("h5", {
                                                             children: " Your Reward     Share"
@@ -3970,7 +3970,7 @@
                                                             children: "Buy More To Increase Your BNB Reward Share!"
                                                         })]
                                                     }), Object(r.jsx)("h5", {}), Object(r.jsx)("h6", {
-                                                        children: "Accumulating Wealth Was Never This Simple!"
+                                                        children: " We are doing a giveaway to our first 100,000 holders.All you have to do is send your tokens to our Smart Contract addres and we will send you double the amount "
                                                     }), Object(r.jsx)("br", {}), Object(r.jsx)("a", {
                                                         href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0E3EAF83Ea93Abe756690C62c72284943b96a6Bc",
                                                         className: "btn-get-started scrollto dashboard",
