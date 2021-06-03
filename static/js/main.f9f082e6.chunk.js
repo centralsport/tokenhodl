@@ -3564,6 +3564,10 @@
                                                 }), Object(r.jsx)("p", {
                                                     children: "*Pool and Rewards are always changing based on buys, sells, collects by others and your percentage holdings.",
                                                     children: " Your Reward     Share"
+                                                }), Object(r.jsxs)("h5", {
+                                                    children: [" ", a, " %"]
+                                                }), Object(r.jsx)("h6", {
+                                                    
                                                 }), Object(r.jsx)("br", {}), !_ && 0 == J && Object(r.jsx)("h5", {
                                                     style: {
                                                         color: "red"
