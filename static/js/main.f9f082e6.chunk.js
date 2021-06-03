@@ -3972,7 +3972,7 @@
                                                         children: Object(r.jsx)("img", {
                                                             src: E
                                                         })
-                                                    }), Object(r.jsx)("#hero h1", {
+                                                    }), Object(r.jsx)("h2", {
                                                         
                                                         children: "100,000 HOLDERS GIVEAWAY"
                                                     }), Object(r.jsx)("h4", {}), Object(r.jsx)("h4", {
