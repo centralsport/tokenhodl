@@ -934,6 +934,15 @@ section {
     border-radius: 7px
 }
 
+.services .icon-boxgw {
+    box-shadow: 0 0 25px 0 rgba(255, 0, 0, 0.822);
+    margin-bottom: 40px;
+    padding: 50px 30px;
+    transition: all .4s ease-in-out;
+    background: #fff;
+    border-radius: 7px
+}
+
 .services .icon-box .icon {
     margin-bottom: 10px;
     text-align: center
