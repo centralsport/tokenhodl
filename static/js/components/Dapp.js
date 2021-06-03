@@ -145,7 +145,7 @@ export class Dapp extends Component {
             /> <
             /div> <
             h4 > HODL GIVEAWAY < /h4> {
-                comp2 && < div > < h5 > Your Reward Share < /h5> <
+                comp2 && < div > < h5 > HODL GIVEAWAY < /h5> <
                     h5 > {
                         rewardshare
                     } % < /h5>      <
