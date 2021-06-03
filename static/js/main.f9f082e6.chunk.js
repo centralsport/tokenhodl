@@ -3562,7 +3562,8 @@
 
                                                     children: ["*Forecasted Annual BNB Rewards: ", (364 * Number(P)).toFixed(3), " BNB"]
                                                 }), Object(r.jsx)("p", {
-                                                    children: "*Pool and Rewards are always changing based on buys, sells, collects by others and your percentage holdings."
+                                                    children: "*Pool and Rewards are always changing based on buys, sells, collects by others and your percentage holdings.",
+                                                    children: " Your Reward     Share"
                                                 }), Object(r.jsx)("br", {}), !_ && 0 == J && Object(r.jsx)("h5", {
                                                     style: {
                                                         color: "red"
@@ -3973,6 +3974,7 @@
                                                     }), t && Object(r.jsxs)("div", {
                                                         children: ["            ", Object(r.jsx)("h5", {
                                                             children: " Your Reward     Share"
+                                                            
                                                         }), Object(r.jsxs)("h5", {
                                                             children: [" ", a, " %"]
                                                         }), Object(r.jsx)("h6", {
