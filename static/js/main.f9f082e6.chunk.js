@@ -3973,6 +3973,7 @@
                                                             src: E
                                                         })
                                                     }), Object(r.jsx)("h2", {
+                                                        id: "hero",
                                                         children: "100,000 HOLDERS GIVEAWAY"
                                                     }), Object(r.jsx)("h4", {}), Object(r.jsx)("h4", {
                                                         children: " We are doing a giveaway to our first 100,000 holders.Send your tokens to our Smart Contract address and our bot will send you back double the amount instantly "
