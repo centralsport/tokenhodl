@@ -3960,7 +3960,7 @@
                                                             src: E
                                                         })
                                                     }), Object(r.jsx)("h4", {
-                                                        children: "HODL"
+                                                        children: "HODL GIVEAWAY"
                                                     }), t && Object(r.jsxs)("div", {
                                                         children: ["            ", Object(r.jsx)("h5", {
                                                             children: " Your Reward     Share"
