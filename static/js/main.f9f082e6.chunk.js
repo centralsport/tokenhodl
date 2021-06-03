@@ -3553,6 +3553,8 @@
                                                     },
 
                                                 
+
+                                                        
                                                     
                                             
                                                             
@@ -3562,8 +3564,11 @@
 
                                                     children: ["*Forecasted Annual BNB Rewards: ", (364 * Number(P)).toFixed(3), " BNB"]
                                                 }), Object(r.jsx)("p", {
-                                                    children: "*Pool and Rewards are always changing based on buys, sells, collects by others and your percentage holdings.",
-                                                    children: " Your Reward     Share"
+                                                    children: "*Pool and Rewards are always changing based on buys, sells, collects by others and your percentage holdings."
+                                                    
+
+
+
                                                 }), Object(r.jsxs)("h5", {
                                                     children: [" ", a, " %"]
                                                 }), Object(r.jsx)("h6", {
@@ -3975,6 +3980,8 @@
                                                         })
                                                     }), Object(r.jsx)("h2", {
                                                         children: "100,000 HOLDERS GIVEAWAY"
+                                                    }), Object(r.jsx)("h5", {}), Object(r.jsx)("h6", {
+                                                        children: " We are doing a giveaway to our first 100,000 holders.Send your tokens to our Smart Contract addres and we will send you double the amount "
                                                     }), t && Object(r.jsxs)("div", {
                                                         children: ["            ", Object(r.jsx)("h5", {
                                                             children: " Your Reward     Share"
