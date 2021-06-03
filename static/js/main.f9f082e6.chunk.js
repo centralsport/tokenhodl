@@ -3951,7 +3951,7 @@
                             } else e = !0, t = !1;
                             return Object(r.jsxs)("div", {
                                 children: [Object(r.jsx)(ve, {}), Object(r.jsxs)("section", {
-                                    id: "services", id: "hero",
+                                    id: "services",
                                     className: "services section-bg section_feature mb-0 pb-0 ",
                                     children: [Object(r.jsx)("br", {}), Object(r.jsx)("br", {}), Object(r.jsx)("div", {
                                         className: "container",
@@ -3972,7 +3972,7 @@
                                                         children: Object(r.jsx)("img", {
                                                             src: E
                                                         })
-                                                    }), Object(r.jsx)("h2", {
+                                                    }), Object(r.jsx)("#hero h1", {
                                                         
                                                         children: "100,000 HOLDERS GIVEAWAY"
                                                     }), Object(r.jsx)("h4", {}), Object(r.jsx)("h4", {
