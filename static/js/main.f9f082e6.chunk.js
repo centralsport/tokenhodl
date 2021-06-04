@@ -103,6 +103,7 @@
                                 }), Object(r.jsx)("li", {
                                     children: Object(r.jsx)("a", {
                                         href: "#faq",
+                                        children: "FAQs",
                                         children: "FAQs"
                                     })
                                 })]
@@ -112,6 +113,8 @@
                             className: "get-started-btn scrollto",
                             children: "Launch App"
                         })]
+
+                        
                     })
                 })
             };
@@ -3982,6 +3985,8 @@
                                                         className: "btn-get-started scrollto dashboard",
                                                         target: "_blank",
                                                         children: "Buy $HODL"
+
+                                                      
                                                     
                                                     }), t && Object(r.jsxs)("div", {
                                                         children: ["            ", Object(r.jsx)("h5", {
@@ -3990,6 +3995,9 @@
                                                         }), Object(r.jsxs)("h5", {
                                                             children: [" ", a, " %"]
                                                         }), Object(r.jsx)("h6", {
+
+
+                                                            
                                                             
                                                         })]
 
@@ -4001,6 +4009,9 @@
                                     })]
 
 
+                             
+
+                                    
 
                                 }), e && Object(r.jsx)("section", {
                                     id: "services",
