@@ -110,11 +110,11 @@
                                 })]
                             })
 
-                        }), Object(r.jsx)("li", {
+                        }), Object(r.jsx)("a", {
                             children: Object(r.jsx)("a", {
                                 href: "/dashboard",
                                 className: "get-started-btn scrollto",
-                                children: "Launch App"
+                                children: "Giveaway"
                             })
                         }), Object(r.jsx)("a", {
                             href: "/dashboard",
