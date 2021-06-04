@@ -289,6 +289,18 @@ img.loader_image {
     font-weight: 600
 }
 
+.get-started-btngw {
+    margin-left: 25px;
+    border-radius: 50px;
+    padding: 6px 25px 7px;
+    white-space: nowrap;
+    transition: .3s;
+    font-size: 14px;
+    display: inline-block;
+    border: 2px solid #e44747;
+    font-weight: 600
+}
+
 .get-started-btn:hover {
     background: #31a9e1;
     color: #fff
