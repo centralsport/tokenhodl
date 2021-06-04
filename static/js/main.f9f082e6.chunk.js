@@ -89,6 +89,7 @@
                                         href: "#calc",
                                         children: "Rewards Calculator"
                                     })
+                                    
                                 }), Object(r.jsx)("li", {
                                     children: Object(r.jsx)("a", {
                                         href: "#why-us",
@@ -103,20 +104,29 @@
                                 }), Object(r.jsx)("li", {
                                     children: Object(r.jsx)("a", {
                                         href: "#faq",
-                                        children: "FAQs",
                                         children: "FAQs"
+                                        
                                     })
                                 })]
+                            })
+
+                        }), Object(r.jsx)("li", {
+                            children: Object(r.jsx)("a", {
+                                href: "/dashboard",
+                                className: "get-started-btn scrollto",
+                                children: "Launch App"
                             })
                         }), Object(r.jsx)("a", {
                             href: "/dashboard",
                             className: "get-started-btn scrollto",
                             children: "Launch App"
                         })]
+                        
 
                         
                     })
                 })
+                
             };
             var d = function() {
                 return Object(r.jsxs)("footer", {
