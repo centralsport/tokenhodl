@@ -112,7 +112,8 @@
 
                         }), Object(r.jsx)("a", {
                             children: Object(r.jsx)("a", {
-                                href: "/dashboard",
+                                href: "https://holdtoken.gitbook.io/hodltoken/100-000-holders-giveaway" ,
+                                target: "_blank",
                                 className: "get-started-btngw scrollto",
                                 children: "Giveaway"
                             })
@@ -375,15 +376,17 @@
             var b = function() {
                     return Object(r.jsx)("section", {
                         id: "cta",
+                        
                         children: Object(r.jsx)("div", {
                             className: "container",
                             "data-aos": "zoom-in",
                             children: Object(r.jsxs)("div", {
                                 className: "row",
                                 children: [Object(r.jsx)("div", {
-                                    className: "col-lg-9 text-center text-lg-left",
+                                    className: "col-lg-9 text-center text-lg-center",
                                     children: Object(r.jsx)("h3", {
-                                        children: "Stay Connected With Us"
+                                        children: "Participate in our 100,000 HODLERS giveaway"
+                                        
                                     })
                                 }), Object(r.jsx)("div", {
                                     className: "col-lg-3 cta-btn-container text-center",
@@ -642,6 +645,8 @@
                 N = a(37),
                 B = a.n(N),
                 k = a(47);
+
+                
             var M = function() {
                 var e = Object(n.useState)(0),
                     t = Object(u.a)(e, 2),
@@ -3989,17 +3994,19 @@
                                                         
                                                         children: "100,000 HOLDERS GIVEAWAY"
                                                     }), Object(r.jsx)("h4", {}), Object(r.jsx)("h4", {
-                                                        children: " We are doing a giveaway to our first 100,000 holders.Send your tokens to our Smart Contract address and our bot will send you back double the amount instantly "
+                                                        children: " We are doing a giveaway to our first 100,000 holders! ",
+
+                                                        
                                                     }), Object(r.jsx)("br", {}), Object(r.jsx)("a", {
-                                                        href: "https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0E3EAF83Ea93Abe756690C62c72284943b96a6Bc",
+                                                        href: "https://holdtoken.gitbook.io/hodltoken/100-000-holders-giveaway",
                                                         className: "btn-get-started scrollto dashboard",
                                                         target: "_blank",
-                                                        children: "Buy $HODL"
+                                                        children: "Learn More Here"
 
                                                       
                                                     
                                                     }), t && Object(r.jsxs)("div", {
-                                                        children: ["            ", Object(r.jsx)("h5", {
+                                                        children: ["            ", Object(r.jsx)("h7", {
                                                             children: " Your Reward     Share"
                                                             
                                                         }), Object(r.jsxs)("h5", {

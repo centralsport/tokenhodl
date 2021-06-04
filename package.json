@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/centralsport/tokenhodl/issues"
   },
-  "homepage": "https://github.com/centralsport/tokenhodl#readme"
+  "homepage": "https://github.com/centralsport/tokenhodl#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
 }
