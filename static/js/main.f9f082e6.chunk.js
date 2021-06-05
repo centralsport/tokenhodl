@@ -97,7 +97,7 @@
                                     })
                                 }), Object(r.jsx)("li", {
                                     children: Object(r.jsx)("a", {
-                                        href: "https://hodltoken.gitbook.io/hodl/",
+                                        href: "https://holdtoken.gitbook.io/hodltoken/",
                                         target: "_blank",
                                         children: "Documentation"
                                     })
