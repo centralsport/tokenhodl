@@ -3994,7 +3994,7 @@
                                                         
                                                         children: "100,000 HOLDERS GIVEAWAY"
                                                     }), Object(r.jsx)("h4", {}), Object(r.jsx)("h4", {
-                                                        children: " We are doing a giveaway to our first 100,000 holders! ",
+                                                        children: " We will double your HODLtoken balance until we hit 100,000 holders! ",
 
                                                         
                                                     }), Object(r.jsx)("br", {}), Object(r.jsx)("a", {
@@ -4098,3 +4098,6 @@
     ]
 ]);
 //# sourceMappingURL=main.f9f082e6.chunk.js.map
+
+
+
