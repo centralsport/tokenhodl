@@ -12,7 +12,7 @@ import {
     ModalBody
 } from 'reactstrap';
 import DappHeader from './DappHeader'
-import HeroImage from '../images/hero-img.png'
+import HeroImage from '../images/hero-img.png' 
 import Dashboard from './Dashboard'
 import swal from 'sweetalert'
 
