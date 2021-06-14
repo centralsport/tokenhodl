@@ -1,3 +1,6 @@
 ---
 deployment:
- tasks:
+  tasks:
+    - export DEPLOYPATH=/home/user/public_html/tokenhodl
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp style.css $DEPLOYPATH
